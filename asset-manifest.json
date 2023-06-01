@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/doannc02/SRTF_CPU_GANTT/static/css/main.e6c13ad2.css",
+    "main.js": "/doannc02/SRTF_CPU_GANTT/static/js/main.452bc283.js",
+    "static/js/787.b1584fcd.chunk.js": "/doannc02/SRTF_CPU_GANTT/static/js/787.b1584fcd.chunk.js",
+    "index.html": "/doannc02/SRTF_CPU_GANTT/index.html",
+    "main.e6c13ad2.css.map": "/doannc02/SRTF_CPU_GANTT/static/css/main.e6c13ad2.css.map",
+    "main.452bc283.js.map": "/doannc02/SRTF_CPU_GANTT/static/js/main.452bc283.js.map",
+    "787.b1584fcd.chunk.js.map": "/doannc02/SRTF_CPU_GANTT/static/js/787.b1584fcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.452bc283.js"
+  ]
+}
