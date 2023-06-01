@@ -17,12 +17,17 @@
     "redux": "^4.2.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://github.com/doannc02/SRTF_CPU_ReactJs",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  
+  
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -41,4 +46,6 @@
       "last 1 safari version"
     ]
   }
+ 
+  
 }
